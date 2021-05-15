@@ -1,4 +1,27 @@
-const student = {
+type TechType = {
+    id: number
+    title: string
+}
+
+type CityLocalType = {
+    title: string
+    country: string
+}
+
+type AddressType = {
+    street: string
+    city: CityLocalType
+}
+
+type StudentType = {
+    name: string
+    age: number
+    isActive: boolean
+    address: AddressType
+    technologies: Array<TechType>
+}
+
+const student: StudentType = {
     name: 'Nick',
     age: 27,
     isActive: false,
