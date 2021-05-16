@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7446e105-2c4a-456b-9efd-7d9eed20fbeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/02-lesson/02.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/02-lesson/02.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +11,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1sZl3kVRv2mdiqRHtAek1ICOiCF" />
   <component name="ProjectLevelVcsManager">
@@ -25,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/01-lesson" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="D:\JS-TS\my-app\node_modules\typescript\lib" />
@@ -33,10 +40,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS-TS\my-app\src" />
       <recent name="D:\JS-TS\my-app\src\01-lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.new tech skill should be added to student">
+  <component name="RunManager" selected="Jest.should take courses chipper 250">
     <configuration name="02.test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -60,16 +68,29 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="splitting into words should be correct" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="should take courses chipper 250" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$/my-app" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/my-app/src/01-lesson/01.test.ts" />
+      <test-file value="$PROJECT_DIR$/my-app/src/04-lesson/04.test.ts" />
       <test-names>
-        <test-name value="splitting into words should be correct" />
+        <test-name value="should take courses chipper 250" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should take old men older then 90" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/my-app" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/my-app/src/04-lesson/04.test.ts" />
+      <test-names>
+        <test-name value="should take old men older then 90" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -88,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.should take courses chipper 250" />
+        <item itemvalue="Jest.should take old men older then 90" />
         <item itemvalue="Jest.new tech skill should be added to student" />
         <item itemvalue="Jest.02.test.ts" />
         <item itemvalue="Jest.sum should be correct" />
-        <item itemvalue="Jest.splitting into words should be correct" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621087795749</updated>
       <workItem from="1621087797082" duration="4647000" />
-      <workItem from="1621093816090" duration="4456000" />
+      <workItem from="1621093816090" duration="8539000" />
     </task>
     <servers />
   </component>
