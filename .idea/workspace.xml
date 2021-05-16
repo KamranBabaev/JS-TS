@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7446e105-2c4a-456b-9efd-7d9eed20fbeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/02-lesson/02.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/02-lesson/02.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/02-lesson/02.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/02-lesson/02.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
       <recent name="D:\JS-TS\my-app\src\01-lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.02.test.ts">
+  <component name="RunManager" selected="Jest.new tech skill should be added to student">
     <configuration name="02.test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -47,6 +45,19 @@
       <envs />
       <scope-kind value="TEST_FILE" />
       <test-file value="$PROJECT_DIR$/my-app/src/02-lesson/02.test.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new tech skill should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/my-app" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/my-app/src/03-lesson/03.test.ts" />
+      <test-names>
+        <test-name value="new tech skill should be added to student" />
+      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="splitting into words should be correct" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -77,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.new tech skill should be added to student" />
         <item itemvalue="Jest.02.test.ts" />
         <item itemvalue="Jest.sum should be correct" />
         <item itemvalue="Jest.splitting into words should be correct" />
@@ -92,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621087795749</updated>
       <workItem from="1621087797082" duration="4647000" />
-      <workItem from="1621093816090" duration="2466000" />
+      <workItem from="1621093816090" duration="4456000" />
     </task>
     <servers />
   </component>
