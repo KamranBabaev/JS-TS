@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import {User} from "./06-lesson/06";
+import App from "./App";
 
-ReactDOM.render(<User />, document.getElementById('root')
+ReactDOM.render(<App />, document.getElementById('root')
 );
 
 reportWebVitals();
