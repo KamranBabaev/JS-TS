@@ -8,7 +8,7 @@ type CourseType = {
 
 
 export const courses = [
-    {title: 'CSS', price: 200},
-    {title: 'HTML', price: 100},
-    {title: 'JS', price: 350},]
-export const cheapCourses = (course: CourseType) => course.price < 250
+    {title: 'CSS', age: 200},
+    {title: 'HTML', age: 100},
+    {title: 'JS', age: 350},]
+export const cheapCourses = (course: CourseType) => course.age < 250
