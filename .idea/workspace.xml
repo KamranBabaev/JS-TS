@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7446e105-2c4a-456b-9efd-7d9eed20fbeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/08-lesson/08.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/09-lesson/09.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +45,35 @@
       <recent name="D:\JS-TS\my-app\src" />
       <recent name="D:\JS-TS\my-app\src\01-lesson" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JS-TS\my-app\src\09-lesson" />
+    </key>
   </component>
-  <component name="RunManager" selected="Jest.should take courses chipper 250">
-    <configuration name="02.test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.array test">
+    <configuration name="array test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$/my-app" />
       <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/my-app/src/02-lesson/02.test.ts" />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/my-app/src/09-lesson/09.test.ts" />
+      <test-names>
+        <test-name value="array test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="big test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/my-app" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/my-app/src/09-lesson/09.test.ts" />
+      <test-names>
+        <test-name value="big test" />
+      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="new tech skill should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -95,26 +115,13 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="sum should be correct" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$/my-app" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/my-app/src/01-lesson/01.test.ts" />
-      <test-names>
-        <test-name value="sum should be correct" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.array test" />
+        <item itemvalue="Jest.big test" />
         <item itemvalue="Jest.should take courses chipper 250" />
         <item itemvalue="Jest.should take old men older then 90" />
         <item itemvalue="Jest.new tech skill should be added to student" />
-        <item itemvalue="Jest.02.test.ts" />
-        <item itemvalue="Jest.sum should be correct" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +138,7 @@
       <workItem from="1621180725588" duration="39000" />
       <workItem from="1621232795350" duration="5732000" />
       <workItem from="1621931838271" duration="2121000" />
+      <workItem from="1622794807328" duration="4065000" />
     </task>
     <servers />
   </component>
