@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7446e105-2c4a-456b-9efd-7d9eed20fbeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/08-lesson/08.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/09-lesson/09.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="D:\JS-TS\my-app\src\09-lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.array test">
+  <component name="RunManager" selected="Jest.change laptop">
     <configuration name="array test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -76,52 +75,52 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="new tech skill should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="change address" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$/my-app" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/my-app/src/03-lesson/03.test.ts" />
+      <test-file value="$PROJECT_DIR$/my-app/src/10-lesson/10.test.tsx" />
       <test-names>
-        <test-name value="new tech skill should be added to student" />
+        <test-name value="change address" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="should take courses chipper 250" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="change laptop" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$/my-app" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/my-app/src/04-lesson/04.test.ts" />
+      <test-file value="$PROJECT_DIR$/my-app/src/10-lesson/10.test.tsx" />
       <test-names>
-        <test-name value="should take courses chipper 250" />
+        <test-name value="change laptop" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="should take old men older then 90" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="reference type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/my-app/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$/my-app" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/my-app/src/04-lesson/04.test.ts" />
+      <test-file value="$PROJECT_DIR$/my-app/src/10-lesson/10.test.tsx" />
       <test-names>
-        <test-name value="should take old men older then 90" />
+        <test-name value="reference type test" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.change laptop" />
+        <item itemvalue="Jest.change address" />
+        <item itemvalue="Jest.reference type test" />
         <item itemvalue="Jest.array test" />
         <item itemvalue="Jest.big test" />
-        <item itemvalue="Jest.should take courses chipper 250" />
-        <item itemvalue="Jest.should take old men older then 90" />
-        <item itemvalue="Jest.new tech skill should be added to student" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +138,7 @@
       <workItem from="1621232795350" duration="5732000" />
       <workItem from="1621931838271" duration="2121000" />
       <workItem from="1622794807328" duration="4065000" />
+      <workItem from="1623074169298" duration="4419000" />
     </task>
     <servers />
   </component>
